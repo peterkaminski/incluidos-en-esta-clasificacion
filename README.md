@@ -1,7 +1,10 @@
-# README
+# Incluidos En Esta Clasificación
 
-Welcome to the home page of this wiki. Edit to make it your own!
+This is the README page about the Incluidos En Esta Clasificación wiki.
 
-Use Markdown, or just type text -- either way works.
+This is a [[Massive Wiki]] hosted on [[Radicle]].  It was started by [[Peter Kaminski]].
 
-Use double brackets around some words to make links to other pages in this wiki.
+## People
+
+- [[Peter Kaminski]]
+
